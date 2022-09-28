@@ -38,14 +38,15 @@ ___
   
 <br>
 
- <p align="center">
+<p align="center">
   <img width="400" src="https://user-images.githubusercontent.com/69484045/191836285-29504da6-edd6-4636-b38c-815319cc1b80.png" />
   <img width="400" src="https://user-images.githubusercontent.com/69484045/191836308-a51e6968-af5c-4176-b43b-89bc078938a4.png" />
  <a href="https://github.com/Sleepyblue/Netlify-Serverless-Portfolio">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Sleepyblue&repo=Netlify-Serverless-Portfolio&theme=maroongold" />
-</a>
-  <a href="https://github.com/Sleepyblue/markdown-recipe-app">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Sleepyblue&repo=markdown-recipe-app&theme=maroongold" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sleepyblue&repo=Netlify-Serverless-Portfolio&theme=maroongold" />
+ </a>
+ <a href="https://github.com/Sleepyblue/markdown-recipe-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sleepyblue&repo=markdown-recipe-app&theme=maroongold" />
+ </a>
 </p> 
   
 <br>
