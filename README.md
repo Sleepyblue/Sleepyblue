@@ -55,7 +55,6 @@ ___
 ___
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sleepyblue&theme=maroongold&show_icons=true" width="410"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sleepyblue&theme=maroongold&show_icons=true&count_private=true" width="410"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sleepyblue&layout=compact&theme=maroongold" width="400" />
 </p>
-  
