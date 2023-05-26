@@ -49,7 +49,7 @@
 <br>
 <br>
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sleepyblue&theme=gruvbox&show_icons=true&count_private=true" width="350"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sleepyblue&layout=compact&theme=gruvbox" width="265" />
-</p>
+</div>
