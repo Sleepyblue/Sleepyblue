@@ -1,4 +1,4 @@
-<h1 align="center">🍂 $${\color{orange}\huge\textup{Hello, I'm Bruno}}$$</h1>
+<h1 align="center">Hello, I'm Bruno 🍂</h1>
 <div align="center">
 <a href="https://brunome.netlify.app"><img src="https://img.shields.io/badge/Website-f06e23?style=for-the-badge&Color="" alt="Personal Website" /></a>
 <a href="https://codepen.io/SleepyBluee"><img src="https://img.shields.io/badge/Codepen-f06e23?style=for-the-badge&logo=codepen&labelColor=26000&Color=f6ee89" alt="CodePen" /></a>
@@ -7,7 +7,7 @@
 <br>
 <br>
   
-<h2 align="center">$${\color{orange}\large\textup{About me}}$$</h2>
+<h2 align="center">About me</h2>
 
 <br>
 
@@ -20,7 +20,7 @@
 <br>
 <br>
 
-<h2 align="center">$${\color{orange}\large\textup{Tools}}$$</h2>
+<h2 align="center">Tools</h2>
 
 <br>
 
