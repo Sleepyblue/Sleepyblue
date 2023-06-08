@@ -14,6 +14,7 @@
 - 🌱 Self-taught frontend developer with a passion for Accessibility, particularly focused on keyboard navigation.
 - 🌳 Recently discovered a newfound appreciation for unit and visual testing
 - 🍃 Actively seeking opportunities to enhance design and accessibility knowledge while advancing expertise in Vue and TypeScript.
+- 🌿 Versatile and naturally curious, eager to acquire knowledge and explore diverse environments within software development, to cultivate a well-rounded set of skills.
 - 🌼 Currently nurturing two favorite projects: 🥞 a [markdown recipe application](https://github.com/Sleepyblue/markdown-recipe-app)  and 📆 a  [calendar application](https://github.com/Sleepyblue/calendar-app-vue).
 - 🌻 Successfully bloomed in web development after a career transition from Biochemistry.
 
