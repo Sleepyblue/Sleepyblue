@@ -7,7 +7,7 @@
 ⠀⠀⠀⠀⠀⠀⢿⡄⠀⠀⠀⠀⠀⠀⠀⣿⠠⠀⠀⠀⠀⣼⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ +-------------------------------------------------------------------+
 ⠀⠀⠀⠀⠀⠀⠈⣿⠀⠀⠀⠀⠀⠀⣰⠇⠀⠀⠀⢀⣴⠟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  > Frontend: React, Vue, JavaScript, TypeScript, HTML5, CSS3, SASS,   
 ⠀⠀⠀⠀⠀⠀⢠⡟⢰⠀⠀⠀⢀⣰⠟⠀⠀⠀⣠⡟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    Tailwind, Storybook, Histoire, MSW, Playwright
-⠀⠀⠀⠀⠀⢀⡾⠀⠈⠀⠀⠀⣾⠃⠀⠀⠀⢰⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  > Backend: Node.js, Express (light experience)
+⠀⠀⠀⠀⠀⢀⡾⠀⠈⠀⠀⠀⣾⠃⠀⠀⠀⢰⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  > Backend: Node.js, Express (occasional hands-on, routing, BFFs)
 ⠀⠀⠀⠀⢀⣿⠁⠀⠀⠀⠀⢻⡏⠀⠀⠀⠀⡾⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  > Tools & Dev: Vite, Webpack, Jest, Vitest, Vue Test Utils, Testing 
 ⠀⠀⠀⠀⢸⣿⠀⠀⠀⠀⠀⠈⣷⠀⠀⠀⠀⠀⠹⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    Library, Git, Github, VSCode, Neovim, Wezterm
 ⠀⠀⠀⠀⠰⢿⣤⠀⠀⠀⠀⠀⠙⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  > Design & Misc: Figma, Affinity Suite
